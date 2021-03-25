@@ -407,6 +407,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
 1. Bryce A. Lynch (Director, R&D, Virtual Adept Networks)
 1. Burak Sezer
+1. Burny Boi (Glowers Club member)
 1. Byron Lagrone
 1. c47
 1. Cadence Ember
@@ -807,7 +808,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evan Brown
 1. Evan Colvin
 1. Evangelos Paterakis
-1. Evangelos Ribeiro Tzaras
+1. Evnagelos Ribeiro Tzaras
 1. Evan Hirsh
 1. Evan Hunt (BIND maintainer, ISC)
 1. Evan Prodromou
@@ -1195,7 +1196,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. John Helmert III (Gentoo developer)
 1. John Hess
 1. John Krug (jhkrug)
-1. John L. Cooper
 1. John Molakvoæ (skjnldsv)
 1. Johnny Danger Myers
 1. John Reese (The Omnilib Project)
@@ -1234,7 +1234,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jordi Mas (GNOME)
 1. Jordin McEachern
 1. Jorge Acero
-1. Jorge Castro (Kubernetes SIG ContribEx, Chair Emeritus)
 1. Jorge Gaspar Sanz Salinas
 1. Jorge Jara
 1. Jörgen Lundman (OpenZFS)
@@ -1519,7 +1518,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mark Paluch
 1. Mark Tomko
 1. Markus Bohnensack
-1. Markus Joseph Kitsinger (`SwooshyCueb`; iRODS team)
 1. Markus `kmi` S. (Chaos Computer Club)
 1. Markus Unterwaditzer
 1. Marquis Kurt
@@ -2044,7 +2042,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean O'Brien
 1. seb1g
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
-1. Sebastian Spaeth (@spaetz)
 1. Sebastian Kügler (KDE)
 1. Sebastian Ramacher (Debian Developer)
 1. Sebastian Stauch (@sebidude)
@@ -2286,6 +2283,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vyivel
 1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
+1. Wayne Warren (computer nerd of no particular note)
 1. Weilbyte
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
